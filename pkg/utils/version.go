@@ -2,11 +2,11 @@ package utils
 
 var (
 	// BuildTime project build time
-	BuildTime = ""
+	BuildTime = "unset"
 
 	// Commit repo commit
-	Commit = ""
+	Commit = "unset"
 
 	// Release prject release ver
-	Release = ""
+	Release = "unset"
 )
